@@ -14,6 +14,8 @@
     <button onclick="showRainbowText()">ボタンを押す</button>
     <p id="text">Hello world</p>
 
+自転車で来ました。
+
     <script>
       function showRainbowText() {
         var textElement = document.getElementById("text");
